@@ -1,0 +1,12 @@
+
+node_modules/
+
+*.log
+npm-debug.log*
+
+dist/
+build/
+
+.env
+
+package-lock.json
